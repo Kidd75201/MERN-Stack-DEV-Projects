@@ -1,0 +1,5 @@
+Videos 6 & 7
+* Created Mongo Server cloud (cluster) = DevConnector
+* Installed Express
+* Connected to Postman and successfully ran GET command
+
