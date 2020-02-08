@@ -3,3 +3,7 @@ Videos 6 & 7
 * Installed Express
 * Connected to Postman and successfully ran GET command
 
+https://postman-echo.com/get
+
+Video 10
+* Created the Express validator using Postman
